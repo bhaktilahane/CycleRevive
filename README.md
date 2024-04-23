@@ -1,2 +1,2 @@
 # CycleRevive
-Cycle Donation Platform
+It is a website for Cycle Donation Platform 
